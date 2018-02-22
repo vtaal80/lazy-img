@@ -1,0 +1,12 @@
+{
+  "name": "vue-menu",
+  "version": "0.0.3",
+  "description": "Simple responsive VueJS menu",
+  "main": "vue-menu.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "V. Taal <v.taal@jdi.nl> (http://www.jdi.nl)",
+  "license": "ISC",
+  "dependencies": {}
+}
